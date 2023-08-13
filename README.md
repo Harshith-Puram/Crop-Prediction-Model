@@ -2,7 +2,6 @@
 
 Welcome to the Crop Prediction Model repository! This project implements a Random Forest-based model for predicting the most suitable crop based on user-inputted values of soil potassium, phosphorous, nitrogen levels, temperature, humidity, and soil type.
 
-![Crop Prediction Model](/path/to/your/image.png)
 
 ## About the Model
 
