@@ -71,10 +71,10 @@ Contributions to enhance and extend the capabilities of the Crop Prediction Mode
 
 ## Credits
 
-This machine-learning marvel was brought to life by the collaborative efforts of [Your Name] and [Collaborator Names], fueled by the demand for accurate and data-driven crop prediction in agriculture.
+This machine-learning marvel was brought to life by the collaborative efforts of [Druvika Nuthalapati](https://github.com/druvikan) and [Harshith Puram](https://github.com/Harshith-Puram), fueled by the demand for accurate and data-driven crop prediction in agriculture.
 
 ## Contact
 
-For inquiries, issues, or suggestions, please feel free to reach out via [Your Email Address].
+For inquiries, issues, or suggestions, please feel free to reach out via druvikan@gmail.com or harshithppuram@gmail.com.
 
 We extend our gratitude for your interest in the Crop Prediction Model project. It is our hope that this model proves to be an invaluable asset for agricultural decision-making.
