@@ -34,7 +34,7 @@ To harness the capabilities of the Crop Prediction Model, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install the necessary dependencies using the provided `requirements.txt` file.
-4. Run the Flask application using the command: `python app.py`.
+4. Run the Flask application using the command: `main.py`.
 5. Access the model's user interface by opening a web browser and navigating to `http://localhost:5000`.
 
 On the user interface, provide input values for the following parameters:
@@ -49,7 +49,7 @@ After submitting the input, the model will perform its predictions and display t
 
 ## Model Selection Process
 
-The Crop Prediction Model was chosen after a thorough evaluation of various models. The Random Forest algorithm exhibited exceptional performance, achieving an accuracy rate of 99.92%. Detailed insights into the model selection process can be found in the `data_exploration.ipynb` file.
+The Crop Prediction Model was chosen after a thorough evaluation of various models. The Random Forest algorithm exhibited exceptional performance, achieving an accuracy rate of 99.92%. Detailed insights into the model selection process can be found in the `dataset exploration.ipynb` file.
 
 ## Requirements
 
