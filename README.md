@@ -3,7 +3,7 @@
 Welcome to the Crop Prediction Model repository! This project implements a Random Forest-based model for predicting the most suitable crop based on user-inputted values of soil potassium, phosphorous, nitrogen levels, temperature, humidity, and soil type.
 
 ## Web Interface
-![Alt Text](https://github.com/druvikan/Crop-Prediction-Model/blob/main/HOME%20PAGE.jpg)
+![Alt Text] (https://github.com/druvikan/Crop-Prediction-Model/blob/main/HOME%20PAGE.jpg)
 ## About the Model
 
 The Crop Prediction Model employs a powerful Random Forest algorithm to predict the optimal crop to cultivate based on specific soil and environmental conditions. This machine-learning model has been meticulously trained and fine-tuned to deliver exceptional accuracy.
