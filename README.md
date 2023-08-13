@@ -19,9 +19,13 @@ The details of the models considered during the development process, along with 
 The Crop Prediction Model consists of two integral components: the backend, developed using the Flask framework, and the frontend, designed with HTML and CSS.
 
 ### Backend
-- Framework: Flask
-- Python Version: [Specify Python version]
-- Dependencies: [List any required Python packages and their versions]
+Framework: Flask
+Python Version: 3.9.6
+Dependencies: 
+- numpy==1.21.2
+- pandas==1.3.3
+- scikit-learn==0.24.2
+
 
 ### Frontend
 - HTML
