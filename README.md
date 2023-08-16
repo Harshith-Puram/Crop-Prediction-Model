@@ -59,7 +59,7 @@ The Crop Prediction Model was chosen after a thorough evaluation of various mode
 ## Requirements
 
 Ensure you have the required dependencies installed by running:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Contributing
