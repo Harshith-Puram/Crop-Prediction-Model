@@ -39,7 +39,10 @@ To harness the capabilities of the Crop Prediction Model, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Install the necessary dependencies using the provided `requirements.txt` file.
-4. Run the Flask application using the command: `main.py`.
+4. Run the Flask application using the command:
+```
+ python main.py
+```
 5. Access the model's user interface by opening a web browser and navigating to `http://localhost:5000`.
 
 On the user interface, provide input values for the following parameters:
