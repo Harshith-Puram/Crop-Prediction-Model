@@ -59,9 +59,10 @@ The Crop Prediction Model was chosen after a thorough evaluation of various mode
 ## Requirements
 
 Ensure you have the required dependencies installed by running:
-`pip install -r requirements.txt`
 
-
+```
+pip install -r requirements.txt
+```
 ## Contributing
 
 Contributions to enhance and extend the capabilities of the Crop Prediction Model are highly welcome. If you wish to contribute, please adhere to these steps:
